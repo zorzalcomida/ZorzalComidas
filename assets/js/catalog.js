@@ -22,7 +22,7 @@
 window.ZORZAL = {
   whatsapp: '5492474670460',
   whatsappShow: '2474-670460',
-  instagram: 'elzorzal_elaboracion',
+  instagram: 'elzorzal_comidas',
 
   products: [
     {
